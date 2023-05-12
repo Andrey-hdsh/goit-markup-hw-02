@@ -4,7 +4,7 @@
     --color-group:#434455;
     --height-btn:1.5;
     --height-card-name: 1.2;
-    --span-color:#4D5AE5;
+    --span-color:#2e2f42;
     --span-footer-color:#F4F4FD;
     --color-body:#FFFFFF
 }
@@ -16,7 +16,7 @@ body {
 }
 
 .span{
-    color: var(--span-color);
+    color: #2e2f42;
     }
 
     .span-footer{
@@ -25,6 +25,10 @@ body {
 
 .link{
     text-decoration: none;   
+}
+
+.list{
+list-style: none
 }
 
 .service{
@@ -41,10 +45,10 @@ font-family: 'Raleway' sans-serif;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
-line-height: 1.16;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: black;
+color: #4d5ae5;
 text-decoration: none;
 }  
 
