@@ -6,11 +6,13 @@
     --height-card-name: 1.2;
     --span-color:#4D5AE5;
     --span-footer-color:#F4F4FD;
+    --color-body:#FFFFFF
 }
 
 body {
     font-family: 'Roboto', sans-serif;
-    color: #2E2F42;
+    color: #434455; 
+    background: var(--color-body);
 }
 
 .span{
